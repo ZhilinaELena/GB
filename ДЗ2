@@ -31,5 +31,6 @@ public class Lesson2 {
                 array[i] *= 2;
     }
 
+
 }
 
